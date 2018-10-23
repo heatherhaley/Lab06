@@ -1,3 +1,4 @@
+//Added comment to practice using GitHub
 import java.util.Scanner;
 
 public class SciCalculator
